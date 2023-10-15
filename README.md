@@ -96,4 +96,3 @@ This API allows you to generate and manage WireGuard client configurations with 
 
 Replace placeholders such as `SERVER_PUBLIC_KEY` and `SERVER_ENDPOINT` with your actual data.
 
-This API allows you to easily generate and manage WireGuard configurations for multiple clients with custom addresses, DNS, and endpoint information based on the provided server IP.
