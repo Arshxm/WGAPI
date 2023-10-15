@@ -7,7 +7,7 @@ Certainly, here's the documentation for the updated WireGuard Configuration API 
 
 This API allows you to generate and manage WireGuard client configurations with custom addresses based on the provided server IP. You can specify the number of clients, server details, and additional configuration parameters.
 
-**Base URL**: Replace `http://localhost:3000` with the actual URL where your API is hosted.
+**Base URL**: Replace `http://localhost:8000` with the actual URL where your API is hosted.
 
 #### Generate WireGuard Configurations
 
