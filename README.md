@@ -1,8 +1,6 @@
 # WGAPI
 This API simplifies the generation of WireGuard client configurations with customizable settings. It allows you to create configurations for multiple clients, each with unique addresses, DNS settings, and endpoints, all based on your WireGuard server details.
 
-Certainly, here's the documentation for the updated WireGuard Configuration API with the `Endpoint` parameter added to the `[Peer]` section:
-
 ### WireGuard Configuration API
 
 This API allows you to generate and manage WireGuard client configurations with custom addresses based on the provided server IP. You can specify the number of clients, server details, and additional configuration parameters.
